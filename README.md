@@ -10,10 +10,10 @@
 4. ~~[Decision Tree]()~~
 5. ~~[DBDT]()~~
 6. ~~[Xgboost]()~~
-7. [KNN]()
-9. [Naive bayes]()
-10. [SVM]()
-11. [EM]()
-12. [MLP]()
-13. [HMM]
+7. ~~[KNN]()~~
+8. [Naive bayes]()
+9. [SVM]()
+10. [EM]()
+11. [MLP]()
+12. [HMM]()
 
