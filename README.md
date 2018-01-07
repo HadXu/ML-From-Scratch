@@ -8,7 +8,7 @@
 2. ~~[logistic regression]()~~
 3. ~~[Linear Discriminant Analysis]()~~
 4. ~~[Decision Tree]()~~
-5. ~~[DBDT]()~~
+5. ~~[GBDT]()~~
 6. ~~[Xgboost]()~~
 7. ~~[KNN]()~~
 8. ~~[Naive bayes]()~~
