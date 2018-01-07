@@ -11,7 +11,7 @@
 5. ~~[DBDT]()~~
 6. ~~[Xgboost]()~~
 7. ~~[KNN]()~~
-8. [Naive bayes]()
+8. ~~[Naive bayes]()~~
 9. [SVM]()
 10. [EM]()
 11. [MLP]()
