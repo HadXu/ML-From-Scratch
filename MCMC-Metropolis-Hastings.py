@@ -8,8 +8,6 @@ def circle(x, y):
     return (x+2)**2 + (y-2)**2/100 - 3**2
 
 
-
-
 mus = np.array([5, 5])
 sigmas = np.array([[1, .9], [.9, 1]])
 def pgauss(x, y):
