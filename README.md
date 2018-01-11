@@ -18,6 +18,9 @@
 12. ~~HMM [Forward算法](https://github.com/HadXu/ML-From-Scratch/blob/master/HMM_forward.py) [Viterbi算法](https://github.com/HadXu/ML-From-Scratch/blob/master/Viterbi.py)~~
 13. ~~[RNN](https://github.com/HadXu/ML-From-Scratch/blob/master/utils/Simple%20RNN.ipynb)~~
 14. ~~[LSTM]()~~
+15. ~~[MCMC-HM算法]()~~
+
+
 ### 非监督学习算法
 
 1. ~~[K-means](https://github.com/HadXu/ML-From-Scratch/blob/master/K-means算法.ipynb)~~
